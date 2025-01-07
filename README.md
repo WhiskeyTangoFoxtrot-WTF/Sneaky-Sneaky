@@ -10,4 +10,4 @@ Email: giuseppe.rapicano.1@gmail.com
 While this program can encrypt information and help you understand basic encryption techniques, it should not be used for anything illegal. This project is strictly educational and is meant to offer a simple starting point for learning about encryption.
 
 By using this program, you agree that we are not responsible for any illegal activities that may result from its use.
-PS: This program is considered shit yeah is under the basic system...
+PS: This program is considered shit yeah is under the basic system... also audio encryption I think only works w normal also decryption ... sorry
