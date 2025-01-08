@@ -12,4 +12,5 @@ While this program can encrypt information and help you understand basic encrypt
 
 By using this program, you agree that we are not responsible for any illegal activities that may result from its use.
 PS: This program is considered shit yeah is under the basic system...
+# LICENSE
 This program is under the MIT License meaning you may use it modify it etc.. read more in LICENSE file
